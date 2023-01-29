@@ -1,0 +1,30 @@
+D:\project\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.deps.json
+D:\project\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.runtimeconfig.json
+D:\project\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.runtimeconfig.dev.json
+D:\project\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.dll
+D:\project\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.pdb
+D:\project\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.csproj.AssemblyReference.cache
+D:\project\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.AssemblyInfoInputs.cache
+D:\project\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.AssemblyInfo.cs
+D:\project\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.csproj.CoreCompileInputs.cache
+D:\project\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.dll
+D:\project\Ecommerce.DAL\obj\Debug\net5.0\refint\Ecommerce.DAL.dll
+D:\project\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.pdb
+D:\project\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.genruntimeconfig.cache
+D:\project\Ecommerce.DAL\obj\Debug\net5.0\ref\Ecommerce.DAL.dll
+D:\project\Ecommerce Route\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.deps.json
+D:\project\Ecommerce Route\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.runtimeconfig.json
+D:\project\Ecommerce Route\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.runtimeconfig.dev.json
+D:\project\Ecommerce Route\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.dll
+D:\project\Ecommerce Route\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.pdb
+D:\project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.csproj.AssemblyReference.cache
+D:\project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.AssemblyInfoInputs.cache
+D:\project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.AssemblyInfo.cs
+D:\project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.csproj.CoreCompileInputs.cache
+D:\project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.dll
+D:\project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\refint\Ecommerce.DAL.dll
+D:\project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.pdb
+D:\project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.genruntimeconfig.cache
+D:\project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\ref\Ecommerce.DAL.dll

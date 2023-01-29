@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Ecommerce.BLL.Model.SupplierVM>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card-box mb-30">
+    <a class="btn btn-primary" asp-action="Create" asp-controller="Supplier">Add Supplier</a>
+@*<a class="btn btn-primary" asp-action="CheckProducts" asp-controller="Customer"> check products by Name</a>
+*@
+
+    <h2 class="h4 pd-20">All Supplier</h2>
+    <table class="data-table table nowrap">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>District</th>
+         @*       <th>photo</th>
+                <th>file</th>
+*@
+                <th class="datatable-nosort">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>
+                        <h5 class="font-16">@item.name</h5>
+
+                    </td>
+                    <td>@item.district.name</td>
+               @*     <td>
+                        <img src="~/Files/@item.photourl" />
+                    </td>
+                    <td><a href="~/Files/@item.Fileurl" download="download">download</a></td>
+*@
+                    <td>
+                        <div class="dropdown">
+                            <a class="btn btn-link font-24 p-0 line-height-1 no-arrow dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+                                <i class="dw dw-more"></i>
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-right dropdown-menu-icon-list">
+                                <a class="dropdown-item" asp-controller="Supplier" asp-action="Details" asp-route-id="@item.id"><i class="dw dw-eye"></i> View</a>
+                                <a class="dropdown-item" asp-controller="Supplier" asp-action="Edit" asp-route-id="@item.id"><i class="dw dw-edit2"></i> Edit</a>
+                                <a class="dropdown-item" asp-controller="Supplier" asp-action="delete" asp-route-id="@item.id"><i class="dw dw-delete-3"></i> Delete</a>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            }
+
+
+        </tbody>
+    </table>
+</div>

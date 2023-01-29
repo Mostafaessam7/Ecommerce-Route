@@ -1,0 +1,73 @@
+﻿@model Ecommerce.BLL.Model.SupplierVM
+@{
+    ViewData["Title"] = "create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create Supplier</h1>
+
+<div asp-validation-summary="All"></div>
+<form asp-action="Create" asp-controller="Supplier">
+    <input type="hidden" asp-for="id" />
+    <div class="form-group row mt-3">
+        <label asp-for="name" class="col-sm-12 col-md-2 col-form-label">Name</label>
+        <div class="col-sm-12 col-md-10">
+            <input class="form-control" type="text" asp-for="name">
+            <span asp-validation-for="name" class="alert-danger"></span>
+        </div>
+    </div>
+
+    <select class="form-control form-group" id="Country" asp-items="ViewBag.countries">
+        <option disabled selected hidden class="form-control " value="defult">Choose Country</option>
+
+    </select>
+
+    <select class="form-group form-control" id="City">
+        <option disabled selected hidden class="form-control " value="defult">Choose City</option>
+
+    </select>
+
+    <select class="form-control form-group" asp-for="DistrictId">
+        <option disabled selected hidden class="form-control " value="defult">Choose District</option>
+    </select>
+
+    <button class="btn btn-success btn-" type="submit">ADD</button>
+
+</form>
+
+<script src="~/src/scripts/jquery.min.js"></script>
+<script>
+    $("#Country").change(function () {
+        var CntyId = $("#Country").val();
+        //alert(CntyId);
+        $("#City").empty();
+        $.ajax(
+            {
+                type: "POST",
+                url: "/Supplier/getCities/?id=CntyId",
+                data: { id: CntyId },
+                success: function (res) {
+                    $.each(res, function (i, e) {
+                        $("#City").append("<option value=" + e.id + "> " + e.name + "</option>")
+                    })
+                }
+            })
+    });
+
+    $("#City").change(function () {
+        var CityId = $("#City").val();
+        $("#DistrictId").empty();
+        $.ajax(
+            {
+                type: "POST",
+                url: "/Supplier/getDistricts/?id=CityId",
+                data: { id: CityId },
+                success: function (res) {
+                    $.each(res, function (i, e) {
+                        $("#DistrictId").append("<option value=" + e.id + "> " + e.name + "</option>")
+                    })
+                }
+            })
+    });
+
+</script>

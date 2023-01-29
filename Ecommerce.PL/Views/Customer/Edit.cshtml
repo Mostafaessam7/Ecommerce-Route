@@ -1,0 +1,39 @@
+﻿@model Ecommerce.BLL.Model.CustomerVM
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form asp-controller="Customer" asp-action="Edit">
+	<input type="hidden" asp-for="id" />
+	<input type="hidden" asp-for="orderId" />
+
+	<div class="form-group row">
+		<label asp-for="name" class="col-sm-12 col-md-2 col-form-label">name</label>
+		<div class="col-sm-12 col-md-10">
+			<input class="form-control" type="text" asp-for="name">
+			<span asp-validation-for="name" class="alert-danger"></span>
+		</div>
+	</div>
+	<div class="form-group row">
+		<label asp-for="phone" class="col-sm-12 col-md-2 col-form-label">phone</label>
+		<div class="col-sm-12 col-md-10">
+			<input class="form-control" type="text" asp-for="phone">
+			<span asp-validation-for="phone" class="alert-danger"></span>
+		</div>
+	</div>
+	<div class="form-group row">
+		<label asp-for="address" class="col-sm-12 col-md-2 col-form-label">address</label>
+		<div class="col-sm-12 col-md-10">
+			<input class="form-control" type="text" asp-for="address">
+			<span asp-validation-for="address" class="alert-danger"></span>
+		</div>
+	</div>
+
+
+	<button class="btn btn-success" type="submit">Save</button>
+	<button class="btn btn-group" type="reset">reset</button>
+
+</form>
+

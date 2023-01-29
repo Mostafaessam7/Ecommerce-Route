@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewData["Title"] = "CheckProducts";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>CheckProducts</h1>
+
+<select class="form-control pd-20" asp-items="ViewBag.cst" id="CstId">
+    <option disabled selected hidden>Choose Customer</option>
+
+</select>
+
+<button class="btn btn-primary" type="submit" id="CstBtn">Check</button>
+<div id="Value"></div>
+
+<script src="~/src/scripts/jquery.min.js"></script>
+<script>
+
+    $(function () {
+        $("#CstBtn").click(function () {
+
+            var CstId = $("#CstId").val();
+
+            $("#Value").empty();
+            // debugger;
+            $.ajax(
+                {
+                    type: "POST",
+                    url: "/Customer/CheckProducts/",
+                    data: { id: CstId },
+                    success: function (res) {
+
+                        $.each(res, function (i, e) {
+
+                            $("#Value").append("<h4>" + e.name + "</h4>");
+
+                        });
+                    }
+                });
+        });
+    });
+
+</script>

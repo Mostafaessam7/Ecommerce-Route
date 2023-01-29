@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "InStock";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>InStock</h1>
+
+<select asp-items="ViewBag.prod" id="prodId">
+    <option disabled selected hidden>Chooese product</option>
+</select>
+<button class="btn btn-primary" type="submit" id="CstBtn">Check</button>
+
+<div id="Value"></div>
+
+<script src="~/src/scripts/jquery.min.js"></script>
+<script>
+
+
+    $(function () {
+        $("#CstBtn").click(function () {
+
+            var ProductId = $("#prodId").val();
+            $("#Value").empty();
+            // debugger;
+            $.ajax(
+                {
+                    type: "POST",
+                    url: "/product/InStock/",
+                    data: { id: ProductId },
+                    success: function (res) {
+
+                        $("#Value").append("<h4>" + res + "</h4>");
+                    }
+                });
+        });
+    });
+
+
+</script>

@@ -1,0 +1,30 @@
+D:\project\Ecommerce.BLL\bin\Debug\net5.0\Ecommerce.BLL.deps.json
+D:\project\Ecommerce.BLL\bin\Debug\net5.0\Ecommerce.BLL.dll
+D:\project\Ecommerce.BLL\bin\Debug\net5.0\Ecommerce.BLL.pdb
+D:\project\Ecommerce.BLL\bin\Debug\net5.0\Ecommerce.DAL.dll
+D:\project\Ecommerce.BLL\bin\Debug\net5.0\Ecommerce.DAL.pdb
+D:\project\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.csproj.AssemblyReference.cache
+D:\project\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.AssemblyInfoInputs.cache
+D:\project\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.AssemblyInfo.cs
+D:\project\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.csproj.CoreCompileInputs.cache
+D:\project\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.csproj.CopyComplete
+D:\project\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.dll
+D:\project\Ecommerce.BLL\obj\Debug\net5.0\refint\Ecommerce.BLL.dll
+D:\project\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.pdb
+D:\project\Ecommerce.BLL\obj\Debug\net5.0\ref\Ecommerce.BLL.dll
+D:\project\Ecommerce Route\Ecommerce.BLL\bin\Debug\net5.0\Ecommerce.BLL.deps.json
+D:\project\Ecommerce Route\Ecommerce.BLL\bin\Debug\net5.0\Ecommerce.BLL.dll
+D:\project\Ecommerce Route\Ecommerce.BLL\bin\Debug\net5.0\Ecommerce.BLL.pdb
+D:\project\Ecommerce Route\Ecommerce.BLL\bin\Debug\net5.0\Ecommerce.DAL.dll
+D:\project\Ecommerce Route\Ecommerce.BLL\bin\Debug\net5.0\Ecommerce.DAL.pdb
+D:\project\Ecommerce Route\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.csproj.AssemblyReference.cache
+D:\project\Ecommerce Route\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Ecommerce Route\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.AssemblyInfoInputs.cache
+D:\project\Ecommerce Route\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.AssemblyInfo.cs
+D:\project\Ecommerce Route\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.csproj.CoreCompileInputs.cache
+D:\project\Ecommerce Route\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.csproj.CopyComplete
+D:\project\Ecommerce Route\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.dll
+D:\project\Ecommerce Route\Ecommerce.BLL\obj\Debug\net5.0\refint\Ecommerce.BLL.dll
+D:\project\Ecommerce Route\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.pdb
+D:\project\Ecommerce Route\Ecommerce.BLL\obj\Debug\net5.0\ref\Ecommerce.BLL.dll

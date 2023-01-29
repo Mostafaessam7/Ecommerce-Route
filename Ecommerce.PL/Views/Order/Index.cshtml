@@ -1,0 +1,86 @@
+﻿@model IEnumerable<Ecommerce.BLL.Model.OrderVM>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="card-box mb-30">
+    <a class="btn btn-primary" asp-action="Create" asp-controller="Order">Add Order</a>
+    <a class="btn btn-primary" id="Orderbtn">Count Orders</a>
+        <div id="value"></div>
+
+    <h2 class="h4 pd-20">All Products</h2>
+
+    <table class="data-table table nowrap">
+        <thead>
+            <tr>
+@*                <th class="table-plus datatable-nosort">Order</th>
+*@                <th>Order Time</th>
+                <th>Customer Name</th>
+                <th>Customer Phone</th>
+                <th>Products</th>
+                <th class="datatable-nosort">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+            
+                    <td>
+                        <h5 class="font-16">@item.orderTime</h5>
+                        
+                    </td>
+                    <td>@item.Customer.name</td>
+                    <td>@item.Customer.phone</td>
+                    <td>
+                        @foreach (var i in @item.OrderProduct)
+                        {
+                            <span> / @i.Product.name</span>                       
+                        }
+
+                    </td>
+                    
+                    <td>
+                        <div class="dropdown">
+                            <a class="btn btn-link font-24 p-0 line-height-1 no-arrow dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+                                <i class="dw dw-more"></i>
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-right dropdown-menu-icon-list">
+                                <a class="dropdown-item" asp-route-id="@item.id" asp-controller="Order" asp-action="Details"><i class="dw dw-eye"></i> View</a>
+@*                                <a class="dropdown-item" asp-route-id="@item.id" asp-controller="Order" asp-action="Edit"><i class="dw dw-edit2"></i> Edit</a>
+*@                                <a class="dropdown-item" asp-route-id="@item.id" asp-controller="Order" asp-action="Delete"><i class="dw dw-delete-3"></i> Delete</a>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+
+            }
+
+
+        </tbody>
+    </table>
+</div>
+
+<script src="~/src/scripts/jquery.min.js"></script>
+
+<script>
+    $("#Orderbtn").click(function () {
+
+        $("#value").empty();
+        $.ajax({
+            type: "POST",
+            url: "/Order/Count/",
+            data: {},
+            success: function (res) {
+
+                $("#value").append("<h6>" + res + "</h6>");
+
+            }
+        });
+    });
+</script>
+
+

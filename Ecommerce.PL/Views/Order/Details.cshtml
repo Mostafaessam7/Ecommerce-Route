@@ -1,0 +1,108 @@
+﻿@model Ecommerce.BLL.Model.OrderVM
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="min-height-200px">
+    <div class="page-header">
+        <div class="row">
+            <div class="col-md-12 col-sm-12">
+                <div class="title">
+                    <h4>Order Detail</h4>
+                </div>
+                <nav aria-label="breadcrumb" role="navigation">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Order Detail</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div class="product-wrap">
+        <div class="product-detail-wrap mb-30">
+            <div class="row">
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <h1>Customer Detail</h1>
+                    <h4 class="mb-20 pt-20">@Model.Customer.name</h4>
+                    <p>@Model.Customer.address</p>
+                    <div class="price">@Model.Customer.phone </div>
+                 
+                </div>
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <div class="product-detail-desc pd-20 card-box height-100-p">
+
+                        <h1>Product Detail</h1>
+
+                        <div class="mx-w-150">
+                            <div class="form-group">
+
+                                @foreach (var item in Model.OrderProduct)
+                                {
+                                    <label class="text-blue">@item.Product.name</label>
+                                    <label class="text-blue">@item.Product.quantity</label>
+                                    <label class="text-blue">@item.Product.price</label>
+
+                                }
+
+                                <label class="text-blue">@Model.orderTime</label>
+
+                            </div>
+                        </div>
+                     @*   <div class="row">
+                            <div class="col-md-6 col-6">
+                                <a href="#" class="btn btn-primary btn-block">Add To Cart</a>
+                            </div>
+                            <div class="col-md-6 col-6">
+                                <a href="#" class="btn btn-outline-primary btn-block">Buy Now</a>
+                            </div>
+                        </div>*@
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        @*<h4 class="mb-20">Recent Order</h4>
+        <div class="product-list">
+            <ul class="row">
+                <li class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="product-box">
+                        <div class="producct-img"><img src="~/vendors/images/product-img1.jpg" alt=""></div>
+                        <div class="product-caption">
+                            <h4><a href="#">Gufram Bounce Black</a></h4>
+                            <div class="price">
+                                <del>$55.5</del><ins>$49.5</ins>
+                            </div>
+                            <a href="#" class="btn btn-outline-primary">Read More</a>
+                        </div>
+                    </div>
+                </li>
+                <li class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="product-box">
+                        <div class="producct-img"><img src="~/vendors/images/product-img2.jpg" alt=""></div>
+                        <div class="product-caption">
+                            <h4><a href="#">Gufram Bounce White</a></h4>
+                            <div class="price">
+                                <del>$75.5</del><ins>$50</ins>
+                            </div>
+                            <a href="#" class="btn btn-outline-primary">Add To Cart</a>
+                        </div>
+                    </div>
+                </li>
+                <li class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="product-box">
+                        <div class="producct-img"><img src="~/vendors/images/product-img3.jpg" alt=""></div>
+                        <div class="product-caption">
+                            <h4><a href="#">Contrast Lace-Up Sneakers</a></h4>
+                            <div class="price">
+                                <ins>$80</ins>
+                            </div>
+                            <a href="#" class="btn btn-outline-primary">Add To Cart</a>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>*@
+    </div>
+</div>
