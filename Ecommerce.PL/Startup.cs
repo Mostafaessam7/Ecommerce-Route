@@ -5,10 +5,12 @@ using Ecommerce.DAL.Database;
 using Ecommerce.DAL.Entities;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Newtonsoft.Json.Serialization;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -28,7 +30,9 @@ namespace Ecommerce.PL
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllersWithViews();
+            services.AddControllersWithViews().AddNewtonsoftJson(opt => {
+                opt.SerializerSettings.ContractResolver = new DefaultContractResolver();
+            });
             //configure for connection string
             services.AddDbContextPool<ProductContext>(opts =>
            opts.UseSqlServer(Configuration?.GetConnectionString("ConnecStr")));
@@ -43,6 +47,21 @@ namespace Ecommerce.PL
             services.AddScoped<ICountryRep, CountryRep>();
             services.AddScoped<IDistrictRep, DistrictRep>();
 
+            //Identity
+            services.AddIdentity<IdentityUser, IdentityRole>()
+                    .AddEntityFrameworkStores<ProductContext>()
+                    .AddTokenProvider<DataProtectorTokenProvider<IdentityUser>>(TokenOptions.DefaultProvider);
+
+			services.Configure<IdentityOptions>(options =>
+            {
+                // Default Password settings.
+                options.Password.RequireDigit = false;
+                options.Password.RequireLowercase = false;
+                options.Password.RequireNonAlphanumeric = false;
+                options.Password.RequireUppercase = false;
+                options.Password.RequiredLength = 3;
+                options.Password.RequiredUniqueChars = 0;
+            });
 
             //AutoMapper
             services.AddAutoMapper(x => x.AddProfile(new DomainProfile()));
@@ -63,13 +82,14 @@ namespace Ecommerce.PL
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Product}/{action=Index}/{id?}");
+                    pattern: "{controller=Account}/{action=Login}/{id?}");
             });
         }
     }

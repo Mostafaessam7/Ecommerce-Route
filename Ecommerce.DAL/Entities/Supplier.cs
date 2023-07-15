@@ -13,7 +13,8 @@ namespace Ecommerce.DAL.Entities
         public string name { get; set; }
         public int DistrictId { get; set; }
         [ForeignKey("DistrictId")]
-        public District district { get; set; }
+        public virtual District district { get; set; }
+
         public string photourl { get; set; }
         public string Fileurl { get; set; }
     }

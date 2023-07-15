@@ -289,3 +289,442 @@ D:\project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Supplier\In
 D:\project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Supplier\Details.cshtml.g.cs
 D:\project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Supplier\Create.cshtml.g.cs
 D:\project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Customer\Create.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\appsettings.Development.json
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\appsettings.json
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.PL.exe
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.PL.deps.json
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.PL.runtimeconfig.json
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.PL.runtimeconfig.dev.json
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.PL.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.PL.pdb
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.PL.Views.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.PL.Views.pdb
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Abp.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Abp.Web.Common.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\AutoMapper.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Castle.Core.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Castle.Core.AsyncInterceptor.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Castle.Facilities.Logging.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Castle.Windsor.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Humanizer.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\JetBrains.Annotations.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Nito.AsyncEx.Context.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Nito.AsyncEx.Coordination.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Nito.AsyncEx.Tasks.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Nito.Collections.Deque.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Nito.Disposables.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\NUglify.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Collections.Immutable.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.ComponentModel.Annotations.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Drawing.Common.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.IO.Pipelines.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Security.AccessControl.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Security.Permissions.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Windows.Extensions.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\TimeZoneConverter.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.BLL.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.DAL.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.BLL.pdb
+F:\project .Net\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.DAL.pdb
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.csproj.AssemblyReference.cache
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.GeneratedMSBuildEditorConfig.editorconfig
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.AssemblyInfoInputs.cache
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.AssemblyInfo.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.csproj.CoreCompileInputs.cache
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.MvcApplicationPartsAssemblyInfo.cache
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.RazorAssemblyInfo.cache
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.RazorAssemblyInfo.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\scopedcss\bundle\Ecommerce.PL.styles.css
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\staticwebassets\Ecommerce.PL.StaticWebAssets.Manifest.cache
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\staticwebassets\Ecommerce.PL.StaticWebAssets.Pack.cache
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\staticwebassets\msbuild.Ecommerce.PL.Microsoft.AspNetCore.StaticWebAssets.props
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\staticwebassets\msbuild.build.Ecommerce.PL.props
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce.PL.props
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Ecommerce.PL.props
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.TagHelpers.input.cache
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.TagHelpers.output.cache
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.RazorCoreGenerate.cache
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Customer\CheckProducts.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Customer\Create.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Customer\Details.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Customer\Edit.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Customer\Index.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Order\Create.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Order\Details.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Product\InStock.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Supplier\Create.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Supplier\Details.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Supplier\Index.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.RazorTargetAssemblyInfo.cache
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.RazorTargetAssemblyInfo.cs
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.Views.pdb
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.csproj.CopyComplete
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\refint\Ecommerce.PL.dll
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.pdb
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.genruntimeconfig.cache
+F:\project .Net\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\ref\Ecommerce.PL.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\appsettings.Development.json
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\appsettings.json
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.PL.exe
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.PL.deps.json
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.PL.runtimeconfig.json
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.PL.runtimeconfig.dev.json
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.PL.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.PL.pdb
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.PL.Views.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.PL.Views.pdb
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Abp.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Abp.Web.Common.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\AutoMapper.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Castle.Core.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Castle.Core.AsyncInterceptor.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Castle.Facilities.Logging.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Castle.Windsor.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Humanizer.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\JetBrains.Annotations.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Nito.AsyncEx.Context.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Nito.AsyncEx.Coordination.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Nito.AsyncEx.Tasks.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Nito.Collections.Deque.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Nito.Disposables.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\NUglify.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Collections.Immutable.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.ComponentModel.Annotations.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Drawing.Common.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.IO.Pipelines.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Security.AccessControl.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Security.Permissions.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Windows.Extensions.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\TimeZoneConverter.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.BLL.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.DAL.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.BLL.pdb
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Ecommerce.DAL.pdb
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.csproj.AssemblyReference.cache
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.GeneratedMSBuildEditorConfig.editorconfig
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.AssemblyInfoInputs.cache
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.AssemblyInfo.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.csproj.CoreCompileInputs.cache
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.MvcApplicationPartsAssemblyInfo.cache
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.RazorAssemblyInfo.cache
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.RazorAssemblyInfo.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\scopedcss\bundle\Ecommerce.PL.styles.css
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\staticwebassets\Ecommerce.PL.StaticWebAssets.Manifest.cache
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\staticwebassets\Ecommerce.PL.StaticWebAssets.Pack.cache
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\staticwebassets\msbuild.Ecommerce.PL.Microsoft.AspNetCore.StaticWebAssets.props
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\staticwebassets\msbuild.build.Ecommerce.PL.props
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce.PL.props
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Ecommerce.PL.props
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.TagHelpers.input.cache
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.TagHelpers.output.cache
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.RazorCoreGenerate.cache
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Customer\CheckProducts.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Customer\Create.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Customer\Details.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Customer\Edit.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Customer\Index.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Order\Create.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Order\Details.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Product\InStock.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Supplier\Create.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Supplier\Details.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Supplier\Index.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.RazorTargetAssemblyInfo.cache
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.RazorTargetAssemblyInfo.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.Views.pdb
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.csproj.CopyComplete
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\refint\Ecommerce.PL.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.pdb
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Ecommerce.PL.genruntimeconfig.cache
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\ref\Ecommerce.PL.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Account\ConfirmForgetPassword.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.PL\obj\Debug\net5.0\Razor\Views\Admin\CreateRole.cshtml.g.cs

@@ -14,6 +14,9 @@ namespace Ecommerce.BLL.Model
         public string name { get; set; }
         public int CityId { get; set; }
         [ForeignKey("CityId")]
-        public City city { get; set; }
+        public virtual City city { get; set; }
+
+        public virtual ICollection<Supplier> Supplier { get; set; }
+
     }
 }

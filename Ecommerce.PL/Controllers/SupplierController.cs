@@ -1,11 +1,15 @@
-﻿using AutoMapper;
+﻿using Abp.Domain.Repositories;
+using AutoMapper;
+using Ecommerce.BLL.Helper;
 using Ecommerce.BLL.Interfaces;
 using Ecommerce.BLL.Model;
 using Ecommerce.DAL.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 
 namespace Ecommerce.PL.Controllers
 {
@@ -17,7 +21,7 @@ namespace Ecommerce.PL.Controllers
         private readonly ICityRep city;
         private readonly IDistrictRep district;
 
-        public SupplierController(ISupplierRep repository ,
+        public SupplierController(ISupplierRep repository,
             IMapper mapper,
             ICountryRep country,
             ICityRep city,
@@ -37,7 +41,7 @@ namespace Ecommerce.PL.Controllers
             return View(res);
         }
 
-        public IActionResult Details(int id) 
+        public IActionResult Details(int id)
         {
             var data = repository.getById(id);
             return View(mapper.Map<SupplierVM>(data));
@@ -69,26 +73,31 @@ namespace Ecommerce.PL.Controllers
 
         }
 
-		public IActionResult Create()
-		{
+        public IActionResult Create()
+        {
             var data = country.getAll();
             var res = mapper.Map<IEnumerable<CountryVM>>(data);
-
-            //data.photourl = fileUploader.UploadFile("/Files", model.Photo); ;
-            //data.Fileurl = fileUploader.UploadFile("/Files", model.File); ;
-
             ViewBag.countries = new SelectList(res, "id", "name");
             return View();
-		}
+        }
         [HttpPost]
         public IActionResult Create(SupplierVM model)
         {
-            var res = mapper.Map<Supplier>(model);
-            repository.Create(res);
+         
+            string PhotoUrl = FileUploader.UploadFile("Files/", model.Photo);
+            string FileUrl = FileUploader.UploadFile("Files/", model.File);
+
+            var data = mapper.Map<Supplier>(model);
+
+            data.photourl = PhotoUrl;
+            data.Fileurl = FileUrl;
+
+            repository.Create(data);
+
             return RedirectToAction("Index");
         }
 
-            public JsonResult getCities(int id)
+        public JsonResult getCities(int id)
         {
             var data = city.getAll(id);
             var res = mapper.Map<IEnumerable<CityVM>>(data);

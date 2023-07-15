@@ -7,8 +7,9 @@
 <h1>Create Supplier</h1>
 
 <div asp-validation-summary="All"></div>
-<form asp-action="Create" asp-controller="Supplier">
+<form asp-action="Create" asp-controller="Supplier" enctype="multipart/form-data" >
     <input type="hidden" asp-for="id" />
+
     <div class="form-group row mt-3">
         <label asp-for="name" class="col-sm-12 col-md-2 col-form-label">Name</label>
         <div class="col-sm-12 col-md-10">
@@ -30,6 +31,19 @@
     <select class="form-control form-group" asp-for="DistrictId">
         <option disabled selected hidden class="form-control " value="defult">Choose District</option>
     </select>
+
+    <div class="form-group row">
+        <label asp-for="Photo" class="col-sm-12 col-md-2 col-form-label">upload Photo</label>
+        <div class="col-sm-12 col-md-10">
+            <input class="form-control" type="file" asp-for="Photo">
+        </div>
+    </div>
+    <div class="form-group row">
+        <label asp-for="File" class="col-sm-12 col-md-2 col-form-label">upload File</label>
+        <div class="col-sm-12 col-md-10">
+            <input class="form-control" type="file" asp-for="File">
+        </div>
+    </div>
 
     <button class="btn btn-success btn-" type="submit">ADD</button>
 

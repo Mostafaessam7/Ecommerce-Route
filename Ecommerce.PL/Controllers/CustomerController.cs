@@ -2,6 +2,7 @@
 using Ecommerce.BLL.Interfaces;
 using Ecommerce.BLL.Model;
 using Ecommerce.DAL.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Collections;
@@ -9,6 +10,7 @@ using System.Collections.Generic;
 
 namespace Ecommerce.PL.Controllers
 {
+	[Authorize]
 	public class CustomerController : Controller
 	{
         private readonly ICustomerRep repository;

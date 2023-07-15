@@ -34,12 +34,15 @@
                         </p>
 
                         <div class="price">
-                            @Model.photourl
+                            <img src="~/Files/@Model.photourl">
+@*                            <img src="~/Files/" width="100" height="100" />
+*@
                         </div>
                         <div class="price">
-                            @Model.Fileurl
+                            <a class="btn btn-success" href="~/Files/@Model.Fileurl" Download="Download">Download CV</a>
                         </div>
-                       
+  
+   
                     </div>
                 </div>
             </div>

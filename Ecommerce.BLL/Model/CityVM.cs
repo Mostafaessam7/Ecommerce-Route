@@ -15,6 +15,8 @@ namespace Ecommerce.BLL.Model
         public int CountyId { get; set; }
 
         [ForeignKey("CountyId")]
-        public Country country { get; set; }
+        public virtual Country country { get; set; }
+        public virtual ICollection<District> District { get; set; }
+
     }
 }

@@ -28,3 +28,33 @@ D:\project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\refint\Ecommerce.DAL.d
 D:\project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.pdb
 D:\project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.genruntimeconfig.cache
 D:\project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\ref\Ecommerce.DAL.dll
+F:\project .Net\Ecommerce Route\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.deps.json
+F:\project .Net\Ecommerce Route\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.runtimeconfig.json
+F:\project .Net\Ecommerce Route\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.runtimeconfig.dev.json
+F:\project .Net\Ecommerce Route\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.dll
+F:\project .Net\Ecommerce Route\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.pdb
+F:\project .Net\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.csproj.AssemblyReference.cache
+F:\project .Net\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\project .Net\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.AssemblyInfoInputs.cache
+F:\project .Net\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.AssemblyInfo.cs
+F:\project .Net\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.csproj.CoreCompileInputs.cache
+F:\project .Net\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.dll
+F:\project .Net\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\refint\Ecommerce.DAL.dll
+F:\project .Net\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.pdb
+F:\project .Net\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.genruntimeconfig.cache
+F:\project .Net\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\ref\Ecommerce.DAL.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.deps.json
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.runtimeconfig.json
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.runtimeconfig.dev.json
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.pdb
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.csproj.AssemblyReference.cache
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.AssemblyInfoInputs.cache
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.AssemblyInfo.cs
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.csproj.CoreCompileInputs.cache
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\refint\Ecommerce.DAL.dll
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.pdb
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.genruntimeconfig.cache
+F:\project .Net\GitHub Project\Ecommerce Route\Ecommerce.DAL\obj\Debug\net5.0\ref\Ecommerce.DAL.dll

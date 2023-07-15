@@ -15,7 +15,8 @@ namespace Ecommerce.BLL.Model
         public string name { get; set; }
         public int DistrictId { get; set; }
         [ForeignKey("DistrictId")]
-        public District district { get; set; }
+        public virtual District district { get; set; }
+
         public IFormFile Photo { get; set; }
         public string photourl { get; set; }
         public IFormFile File { get; set; }

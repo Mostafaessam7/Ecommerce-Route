@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\project\\Ecommerce Route\\Ecommerce.DAL\\Ecommerce.DAL.csproj": {}
+    "F:\\project .Net\\GitHub Project\\Ecommerce Route\\Ecommerce.DAL\\Ecommerce.DAL.csproj": {}
   },
   "projects": {
-    "D:\\project\\Ecommerce Route\\Ecommerce.DAL\\Ecommerce.DAL.csproj": {
+    "F:\\project .Net\\GitHub Project\\Ecommerce Route\\Ecommerce.DAL\\Ecommerce.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\Ecommerce Route\\Ecommerce.DAL\\Ecommerce.DAL.csproj",
+        "projectUniqueName": "F:\\project .Net\\GitHub Project\\Ecommerce Route\\Ecommerce.DAL\\Ecommerce.DAL.csproj",
         "projectName": "Ecommerce.DAL",
-        "projectPath": "D:\\project\\Ecommerce Route\\Ecommerce.DAL\\Ecommerce.DAL.csproj",
+        "projectPath": "F:\\project .Net\\GitHub Project\\Ecommerce Route\\Ecommerce.DAL\\Ecommerce.DAL.csproj",
         "packagesPath": "C:\\Users\\ALMASA\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\Ecommerce Route\\Ecommerce.DAL\\obj\\",
+        "outputPath": "F:\\project .Net\\GitHub Project\\Ecommerce Route\\Ecommerce.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALMASA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.17, )"
