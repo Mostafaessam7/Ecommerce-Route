@@ -1,7 +1,7 @@
 
 # Ecommerce
 
-##### This project is a fully functional E-commerce system built using ASP.NET Core MVC and Entity Framework Core. It enables users to browse products, add items to their shopping cart.
+#### This project is a fully functional E-commerce system built using ASP.NET Core MVC and Entity Framework Core. It enables users to browse products, add items to their shopping cart.
 
 # Key Features:
 ## User Authentication and Authorization: Users can register, log in, and manage their accounts. Admin users have additional privileges to manage the system.
