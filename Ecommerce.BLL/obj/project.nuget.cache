@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nY2bGgHszSS8FtFUjjnLLLTT1LwBWIoNu4OfO56OFs4Dpm+Ao+tHMzaGFD/znFd1fD+UREL9P+4PJXvvOaFvIA==",
+  "dgSpecHash": "ON7Baf7yqNM=",
   "success": true,
-  "projectFilePath": "F:\\project .Net\\GitHub Project\\Ecommerce Route\\Ecommerce.BLL\\Ecommerce.BLL.csproj",
+  "projectFilePath": "H:\\project .Net\\GitHub Project\\Ecommerce Route\\Ecommerce.BLL\\Ecommerce.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALMASA\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\ALMASA\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
